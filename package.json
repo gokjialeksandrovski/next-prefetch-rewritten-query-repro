@@ -1,0 +1,18 @@
+{
+  "name": "next-prefetch-rewritten-query-repro",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next start -p 3200"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "typescript": "^5"
+  }
+}
